@@ -6,6 +6,6 @@ echo "zhende bang";
 echo "jhy";
 echo "budingyi ";
 echo  "buding2";
-
+echo  "补丁2";
 
 ?>
